@@ -1,6 +1,6 @@
 Hey there, I am Ashish Singh👋
 🔭 I’m currently working on GenAI projects
-🌱 I’m currently learning new areas of Artificial Intelligence which include Machine Learning, Natural Language Processing, Deep Learning, and Computer Vision Libraries
+🌱 I’m currently learning new areas of Artificial Intelligence, which include Machine Learning, Natural Language Processing, Deep Learning, and Computer Vision Libraries
 👯 I’m open to collaborating on any topics related to Artificial Intelligence and Generative AI.
 🤔 I’m looking for help with Hand Written Letter Recognition
 💬 Ask me about here
