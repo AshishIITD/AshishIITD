@@ -1,16 +1,33 @@
-Hey there, I am Ashish Singh👋
-🔭 I’m currently working on GenAI projects
-🌱 I’m currently learning new areas of Artificial Intelligence, which include Machine Learning, Natural Language Processing, Deep Learning, and Computer Vision Libraries
-👯 I’m open to collaborating on any topics related to Artificial Intelligence and Generative AI.
-🤔 I’m looking for help with Hand Written Letter Recognition
-💬 Ask me about here
-📫 How to reach me: Ashish Singh
-I have Deep Understanding on various topics👋
-Machine Learning
-Deep Learning
-Natural Language Processing
-OpenCV
-Python
-TensorFlow
-Keras
-RAG and Fine-tuning
+# Hey there, I'm Ashish Singh 👋
+
+## About Me
+🔭 **Currently working on:** Generative AI and Machine Learning projects  
+🌱 **Learning:** Advanced areas of AI including NLP, Deep Learning, and Computer Vision  
+👯 **Open to collaborating on:** AI, Machine Learning, GenAI, and Data Science projects  
+💬 **Expertise Areas:** Machine Learning, Deep Learning, NLP, Computer Vision, Python, TensorFlow, Keras, RAG, and Fine-tuning  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python
+- **ML/DL Frameworks:** TensorFlow, Keras, Scikit-Learn
+- **NLP Tools:** NLTK, SpaCy, Transformers
+- **Computer Vision:** OpenCV
+- **Specialized:** RAG (Retrieval Augmented Generation), Model Fine-tuning, Deep Learning
+
+---
+
+## 📊 Featured Projects
+- **Kidney Disease Classification** - Deep Learning model for medical image classification
+- **Next Word Prediction** - NLP-based text prediction using neural networks
+- **Boston Housing Price Prediction** - Machine Learning regression model
+
+---
+
+## 📫 Let's Connect
+- **GitHub:** [@AshishIITD](https://github.com/AshishIITD)
+- **Open to discussing:** AI projects, ML solutions, and collaboration opportunities
+
+---
+
+*Always learning, always growing!* 🚀
