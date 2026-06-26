@@ -17,38 +17,19 @@
 
 ---
 
-## 📊 Featured Projects
+## 🎯 Featured Projects
 
-### 🆕 Active Projects (2026)
-- **[RAG](https://github.com/AshishIITD/RAG)** - Comprehensive Retrieval-Augmented Generation system with 9 phases from setup to enterprise scaling
-- **[Unsupervised Learning](https://github.com/AshishIITD/Unsupervised)** - Complete guide to unsupervised learning techniques including clustering, dimensionality reduction, anomaly detection
-- **[Fine-tuning Models From Scratch](https://github.com/AshishIITD/Fine_tuning_Modelfroscratch)** - In-depth tutorials on full fine-tuning, LoRA, QLoRA, and model optimization techniques
-
-### Classic Projects
-- **Kidney Disease Classification** - Deep Learning model for medical image classification
-- **Next Word Prediction** - NLP-based text prediction using neural networks
-- **Boston Housing Price Prediction** - Machine Learning regression model
-
----
-
-## 📚 Recent Repositories
-
-| Repository | Description | Status |
-|-----------|-----------|--------|
-| [langgraph-multi-agent-research](https://github.com/AshishIITD/langgraph-multi-agent-research) | Multi-agent systems using LangGraph | 🚀 Active |
-| [llm-finetuning-benchmark](https://github.com/AshishIITD/llm-finetuning-benchmark) | Benchmarking different fine-tuning approaches | 🚀 Active |
-| [llm-observability-platform](https://github.com/AshishIITD/llm-observability-platform) | Monitoring and observability for LLM applications | 🚀 Active |
-| [Flight-data-react-agent](https://github.com/AshishIITD/Flight-data-react-agent) | Agentic system for flight data processing | 🚀 Active |
-| [eduagent-ai-tutor](https://github.com/AshishIITD/eduagent-ai-tutor) | AI-powered educational tutor agent | 🚀 Active |
-
----
-
-## 🎯 Current Focus Areas
-
-- **LLM Fine-tuning:** Parameter-efficient methods (LoRA, QLoRA), full fine-tuning strategies
-- **RAG Systems:** Advanced retrieval, reranking, knowledge management, enterprise RAG
-- **Agentic AI:** Multi-agent frameworks, tool integration, reasoning systems
-- **Unsupervised Learning:** Clustering, dimensionality reduction, anomaly detection techniques
+| Project | Description | Status |
+|---------|-----------|--------|
+| **[RAG](https://github.com/AshishIITD/RAG)** | Comprehensive Retrieval-Augmented Generation system with 9 phases from setup to enterprise scaling | 🚀 Active |
+| **[Unsupervised Learning](https://github.com/AshishIITD/Unsupervised)** | Complete guide to unsupervised learning techniques including clustering, dimensionality reduction, anomaly detection | 🚀 Active |
+| **[Fine-tuning Models From Scratch](https://github.com/AshishIITD/Fine_tuning_Modelfroscratch)** | In-depth tutorials on full fine-tuning, LoRA, QLoRA, and model optimization techniques | 🚀 Active |
+| **[LangGraph Multi-Agent Research](https://github.com/AshishIITD/langgraph-multi-agent-research)** | Multi-agent systems using LangGraph framework | 🚀 Active |
+| **[LLM Fine-tuning Benchmark](https://github.com/AshishIITD/llm-finetuning-benchmark)** | Benchmarking different fine-tuning approaches and strategies | 🚀 Active |
+| **[LLM Observability Platform](https://github.com/AshishIITD/llm-observability-platform)** | Monitoring and observability for LLM applications | 🚀 Active |
+| **[Flight Data React Agent](https://github.com/AshishIITD/Flight-data-react-agent)** | Agentic system for flight data processing and analysis | 🚀 Active |
+| **[EduAgent AI Tutor](https://github.com/AshishIITD/eduagent-ai-tutor)** | AI-powered educational tutor agent | 🚀 Active |
+| **[Kidney Disease Classification](https://github.com/AshishIITD/Kidney-Disease-Classification-Deep-Learning-Project)** | Deep Learning model for medical image classification | ✅ Complete |
 
 ---
 
